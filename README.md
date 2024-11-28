@@ -1,1 +1,1 @@
-# C-files
+# MACHINE LEARNING PROJECTS
